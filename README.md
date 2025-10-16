@@ -1,4 +1,4 @@
-# Lexical_Analyser
+# Lexical_Analyzer
 
 A lexical analyzer, also known as a lexer or scanner, is a fundamental component of a compiler that processes the input source code. Its primary function is to convert the raw source code into a sequence of tokens, which are the smallest units of meaningful information. These tokens typically represent language constructs such as keywords (e.g., `if`, `while`, `return`), identifiers (e.g., variable names), literals (e.g., numeric constants, string literals), and operators (e.g., `+`, `-`, `*`, `/`).
 
